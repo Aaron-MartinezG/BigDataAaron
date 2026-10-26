@@ -2,3 +2,5 @@
 .venv
 **/.venv/
 .vscode/
+
+nyc_taxi_examen.csv
