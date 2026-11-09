@@ -1,7 +1,11 @@
+.DS_Store
 .venv/
 .venv
 **/.venv/
 .vscode/
 
 nyc_taxi_examen.csv
-data
+**/.venv/
+**/_pycache_/
+**/.ipynb_checkpoints/
+**/data/
